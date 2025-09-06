@@ -1,0 +1,10 @@
+title: Adrian Stępień
+description: Projects
+
+theme: minima
+header_pages:
+  - index.md
+  - coolage/index.md
+
+markdown: kramdown
+permalink: /:path/
